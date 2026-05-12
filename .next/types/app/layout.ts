@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // File: /Users/kevinlin/Documents/GitHub/HighlanderHub/src/app/layout.tsx
+=======
+// File: /Users/joshuabumatay/GitHub/HighlanderHub/src/app/layout.tsx
+>>>>>>> aa4df3d0622471668d9aa79ad7a1c78df89ee5f2
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

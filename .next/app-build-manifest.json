@@ -10,11 +10,14 @@
       "static/chunks/main-app.js",
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
+<<<<<<< HEAD
     ],
     "/_not-found/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/_not-found/page.js"
+=======
+>>>>>>> aa4df3d0622471668d9aa79ad7a1c78df89ee5f2
     ]
   }
 }

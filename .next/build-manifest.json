@@ -2,9 +2,13 @@
   "polyfillFiles": [
     "static/chunks/polyfills.js"
   ],
+<<<<<<< HEAD
   "devFiles": [
     "static/chunks/react-refresh.js"
   ],
+=======
+  "devFiles": [],
+>>>>>>> aa4df3d0622471668d9aa79ad7a1c78df89ee5f2
   "ampDevFiles": [],
   "lowPriorityFiles": [
     "static/development/_buildManifest.js",
@@ -15,6 +19,7 @@
     "static/chunks/main-app.js"
   ],
   "pages": {
+<<<<<<< HEAD
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -25,6 +30,9 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ]
+=======
+    "/_app": []
+>>>>>>> aa4df3d0622471668d9aa79ad7a1c78df89ee5f2
   },
   "ampFirstPages": []
 }
